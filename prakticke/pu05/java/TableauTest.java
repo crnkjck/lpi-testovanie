@@ -138,19 +138,6 @@ public class TableauTest {
             PredicateAtom b = p("b");
             PredicateAtom c = p("c");
 
-/*
-            Node na = new Node(F(a), null);
-            Node nb = new Node(T(p("asdfasdfasdf")), na);
-
-            na.addChild(nb);
-            na.addChild(new Node(T(c),na));
-
-            System.err.println(na);
-            System.err.println(nb);
-
-            System.err.println();
-            System.err.println(na.tree());
-*/
 
             t.testCase("addInitial", s -> {
                 Tableau T = new Tableau();
