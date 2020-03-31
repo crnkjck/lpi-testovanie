@@ -179,3 +179,7 @@ Session.vim
 ##### "default" cmake/gradle build dirs
 build
 cmake-build-debug
+
+##### VS Code Java plugin
+.project
+.classpath
