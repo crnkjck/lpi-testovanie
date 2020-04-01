@@ -26,6 +26,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje nasledujúci odkaz:
 |    3   | [výrokovologické vyplývanie](teoreticke/tu03.pdf) | [Formula](prakticke/pu03) |
 |    4   | [vlastnosti a vzťahy formúl](teoreticke/tu04.pdf) | [NNF a CNF](prakticke/pu04) |
 |    5   | [výrokovologické tablá](teoreticke/tu05.pdf) | [Tableau](prakticke/pu05) |
-|    6   | [splniteľnosť a falzifikovateľnosť v tablách](teoreticke/tu06.pdf) | |
+|    6   | [splniteľnosť a falzifikovateľnosť v tablách](teoreticke/tu06.pdf) | [TableauBuilder](prakticke/pu06) |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
