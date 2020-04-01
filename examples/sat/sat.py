@@ -83,7 +83,7 @@ class SatSolver(object):
 #                    'minisat', 'MiniSat_v1.14_linux',
                     './minisat', './MiniSat_v1.14_linux',
                     '../tools/lin/minisat',
-                    '../../tools/lin/minisat'
+                    '../../tools/lin/minisat',
                     '../../../tools/lin/minisat'
                 ]
         elif sys.platform.startswith('win'):
