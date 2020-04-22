@@ -30,6 +30,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje nasledujúci odkaz:
 |        | | bonus: [Hamiltonovská kružnica](prakticke/bonus01) |
 |    7   | [korektné pravidlá, tvrdenia o tablách a midterm](teoreticke/tu07.pdf) | [watched literals](prakticke/pu07) |
 |    8   | | [SatSolver](prakticke/pu08) |
-|    9   | [kvantifikátory](teoreticke/tu08.pdf) | |
+|    9   | [kvantifikátory](teoreticke/tu08.pdf) | [Agatha](prakticke/pu09) |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
