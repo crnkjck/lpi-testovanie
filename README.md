@@ -32,6 +32,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje nasledujúci odkaz:
 |    8   | | [SatSolver](prakticke/pu08) |
 |    9   | [kvantifikátory](teoreticke/tu08.pdf) | [Agatha](prakticke/pu09) |
 |   10   | [tablá pre kvantifikátory](teoreticke/tu09.pdf) | [Vlk, koza, kapusta](prakticke/pu10) |
-|   11   | [funkčné symboly a rovnosť](teoreticke/tu10.pdf) | |
+|   11   | [funkčné symboly a rovnosť](teoreticke/tu10.pdf) | [FolFormula](prakticke/pu11) |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
