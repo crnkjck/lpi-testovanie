@@ -3,7 +3,7 @@ Cvičenie 11
 
 **Riešenie odovzdávajte podľa
 [pokynov na konci tohoto zadania](#technické-detaily-riešenia)
-do stredy 13.5. 23:59:59.**
+do stredy 20.5. 23:59:59.**
 
 Či ste správne vytvorili pull request si môžete overiť
 v [tomto zozname PR pre pu11](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3AFMFI-UK-1-AIN-412+base%3Apu11).
