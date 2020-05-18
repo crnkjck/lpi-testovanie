@@ -35,5 +35,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje nasledujúci odkaz:
 |   11   | [funkčné symboly a rovnosť](teoreticke/tu10.pdf) | [FolFormula](prakticke/pu11) |
 |   12   | [definície a dôkazy s nimi](teoreticke/tu11.pdf) | |
 |        | | bonus: [Rodinka](prakticke/bonus02) |
+|   13   | [rezolvencia](teoreticke/tu12.pdf) | |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
