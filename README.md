@@ -36,5 +36,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje nasledujúci odkaz:
 |   12   | [definície a dôkazy s nimi](teoreticke/tu11.pdf) | |
 |        | | bonus: [Rodinka](prakticke/bonus02) |
 |   13   | [rezolvencia](teoreticke/tu12.pdf) | [Rezolver](prakticke/pu12) |
+|   14   | [testovanie hárka](teoreticke/tu13.json) | |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
